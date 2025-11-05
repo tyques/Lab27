@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab27</string>
+
+    <string name="reset_button">Сброс</string>
+</resources>

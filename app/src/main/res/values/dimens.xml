@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="ball_radius">20dp</dimen>
+
+    <dimen name="text_size_medium">16sp</dimen>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+</resources>
